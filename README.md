@@ -144,7 +144,7 @@ Configuration options
 There are a number of options, which can be specified in the following
 way:
 
-    dcos package install --config=<JSON_FILE> arangodb
+    dcos package install --options=<JSON_FILE> arangodb
 
 where `JSON_FILE` is the path to a JSON file. For a list of possible
 attribute values and their documentation see
